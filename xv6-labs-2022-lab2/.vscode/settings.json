@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "syscall.h": "c",
+        "defs.h": "c",
+        "proc.h": "c",
+        "user.h": "c"
+    },
+    "editor.insertSpaces": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "github.copilot.enable": false
+    }
+}
