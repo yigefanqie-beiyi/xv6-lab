@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "exception": "c",
+        "memory": "c",
+        "initializer_list": "c",
+        "istream": "c",
+        "ostream": "c",
+        "numeric": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "array": "c",
+        "hashtable": "c",
+        "random": "c",
+        "cmath": "c",
+        "functional": "c",
+        "string_view": "c",
+        "system_error": "c"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "github.copilot.enable": false
+    }
+}
